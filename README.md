@@ -61,6 +61,16 @@ The project aims to:
 
 ---
 
+## Dashboards
+
+### Quality Dashboard
+![Quality](images/quality_dashboard.png)
+
+### Employee Performance
+![Performance](images/employee_performance.png)
+
+---
+
 ## How to Use
 1. Open the `.pbix` file in Power BI Desktop
 2. Navigate between report pages
